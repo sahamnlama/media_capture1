@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Mar 16 11:33:13 IST 2018
+#Fri Mar 16 11:38:57 IST 2018
 5.base=C\:\\Users\\stl.ppt\\Desktop\\media_capture1\\media_capture1\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 42.base=C\:\\Users\\stl.ppt\\Desktop\\media_capture1\\media_capture1\\platforms\\android\\app\\build\\intermediates\\assets\\debug
 32.set=ASSET
