@@ -9,4 +9,3 @@ function onDeviceReady() {
 //document.getElementById("audioCapture").addEventListener("click", audioCapture);
 alert('ready');
 }
-/*
